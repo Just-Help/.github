@@ -1,2 +1,2 @@
 # .github
-Our goal is in our name, to Just Help.
+Our mission is in our name, to Just Help.
